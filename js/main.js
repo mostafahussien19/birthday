@@ -1,4 +1,4 @@
-var ftext = 'happy birthday A7med shawareb,May the joy that you have spread in the past come back to you on this day. Wishing you a very happy birthday!',
+var ftext = 'Happy birthday to a special person who is bringing so much joy to my heart. I am thankful for every moment we spend together, and I wish our happiness never ends , May this day be as sunny as your smile, and as beautiful as you are. You shine every day, but on this day you will shine the brightest. Happy Birthday , i love u Yehia',
   i = 0;
 
 window.onload = function()
