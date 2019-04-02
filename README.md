@@ -1,1 +1,1 @@
-# birthdaysharshoob thats a birthday website for my friend 
+thats a birthday website for my friend 
